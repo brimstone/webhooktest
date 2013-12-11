@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "it builds!"
+echo "helps if i restart the script from time to time"
